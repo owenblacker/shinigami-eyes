@@ -7,8 +7,6 @@ For more information: [Shinigami Eyes website](https://shinigami-eyes.github.io/
 * [Shinigami Eyes for Chrome](https://chrome.google.com/webstore/detail/ijcpiojgefnkmcadacmacogglhjdjphj/)
 * [Shinigami Eyes for Firefox](https://addons.mozilla.org/en-US/firefox/addon/shinigami-eyes/)
 
-
-
 ![Screenshot](https://raw.githubusercontent.com/shinigami-eyes/shinigami-eyes/master/images/preview.png)
 
 Follow us on Twitter: [@ShinigamiEyesT](https://www.twitter.com/ShinigamiEyesT)
